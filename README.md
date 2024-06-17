@@ -45,7 +45,8 @@ Past records help me label if the order got canceled or not (0/1). This a binary
 ## Identification of Gender from Names
 <p align="center">
 <img width="520" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/63365c45-12c1-45f5-bb52-9c8b4b89910c">
-<img width="317" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/69771ee6-26cf-4c60-bf1b-f6abc9e588fd">
 <br>
+<img width="317" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/69771ee6-26cf-4c60-bf1b-f6abc9e588fd">
+<img width="323" alt="fl1" src="https://github.com/shithi30/Prediction_of_Cancellation_and_Gender_SPL/assets/43873081/4c3b0b3c-0732-432a-b68b-c1bbb1fc1508">
 </p>
 
