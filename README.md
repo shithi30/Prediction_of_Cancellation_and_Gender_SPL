@@ -27,7 +27,7 @@ Sheba Platform Limited (SPL) was able to reduce cancellation of service-orders b
     - SBU, Master category, Service category, location of the order
     - Which channel landed the order?
 
-Past records help me label if the order got canceled or not (0/1). This a binary classification problem is formed and training renders ~85% accurate results on test-set. DSAI & CX operationalized this the following way:
+Past records help me label if the order got canceled or not (0/1). This a binary classification problem is formed and training renders ~85% accurate results on test-set. DSAI & CX operationalized the findings the following way:
 
 #### During the Day
 - Train: http://mb.sheba.xyz/question/14853
@@ -40,5 +40,7 @@ Past records help me label if the order got canceled or not (0/1). This a binary
 - Prediction performance: https://docs.google.com/spreadsheets/d/1BChwHjBSPakqboYORU4Ukd1bhltUoff1thDjB1G9_oI/edit#gid=0
 - CX followup: https://docs.google.com/spreadsheets/d/1rt68jnf4LPONOY4Raq5M5K-jUQJKUXrxrGTTfDvxmuk/edit#gid=2019316536
 
-![image](https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/63365c45-12c1-45f5-bb52-9c8b4b89910c)
- 
+## Identification of Gender from Names
+
+<img width="600" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/63365c45-12c1-45f5-bb52-9c8b4b89910c"><br>
+
