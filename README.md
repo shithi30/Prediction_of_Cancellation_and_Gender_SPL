@@ -29,13 +29,13 @@ Sheba Platform Limited (SPL) was able to reduce cancellation of service-orders b
 
 Past records help me label if the order got canceled or not (0/1). This a binary classification problem is formed and training renders ~85% accurate results on test-set. DSAI & CX operationalized this the following way:
 
-### During the Day
+#### During the Day
 - Train: http://mb.sheba.xyz/question/14853
 - Test: http://mb.sheba.xyz/question/16702
 - Daily prospective cancels: http://mb.sheba.xyz/question/16708?st=risky&dt=2020-06-24
 - Tracking daily prospective cancels: http://mb.sheba.xyz/question/16744?dt=2020-06-23
 
-### End of Day
+#### End of Day
 - MX and CX | Daily Health Report: http://mb.sheba.xyz/question/13109?target=5600
 - Prediction performance: https://docs.google.com/spreadsheets/d/1BChwHjBSPakqboYORU4Ukd1bhltUoff1thDjB1G9_oI/edit#gid=0
 - CX followup: https://docs.google.com/spreadsheets/d/1rt68jnf4LPONOY4Raq5M5K-jUQJKUXrxrGTTfDvxmuk/edit#gid=2019316536
