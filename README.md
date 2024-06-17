@@ -41,6 +41,7 @@ Past records help me label if the order got canceled or not (0/1). This a binary
 - CX followup: https://docs.google.com/spreadsheets/d/1rt68jnf4LPONOY4Raq5M5K-jUQJKUXrxrGTTfDvxmuk/edit#gid=2019316536
 
 ## Identification of Gender from Names
-
-<img width="600" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/63365c45-12c1-45f5-bb52-9c8b4b89910c"><br>
+<img width="520" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/63365c45-12c1-45f5-bb52-9c8b4b89910c">
+<img width="317" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/69771ee6-26cf-4c60-bf1b-f6abc9e588fd">
+<br>
 
