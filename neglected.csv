@@ -1,0 +1,7 @@
+order_code,schedule_date,schedule_time,schedule_due_counter,reschedule_counter,state,sp_id,sp_name,resource_name,sp_mobile,customer_name,customer_mobile,location,SBU,services
+D-400983-3429,2020-07-12T00:00:00+06:00,17:00:00-18:00:00,0,0,cancelled,3429,M R Shiritee Builders,M R Moshiur,+8801711000020,ma. madud,+8801788843078,Mirpur,REN,"Furniture Fittings, Repair & Fixes"
+D-401228-1524,2020-07-12T00:00:00+06:00,11:00:00-12:00:00,1,0,cancelled,1524,Rajib Treadmill Repair & Servicing Center,,+8801739759322,Nahid,+8801717572465,Badda,HAB,Treadmill Check Up
+D-401269-14236,2020-07-12T00:00:00+06:00,14:00:00-15:00:00,2,2,cancelled,14236,Kazi IT Foundation,,+8801755939783,Rita Das,+8801718726490,Mirpur,HAB,LCD/LED TV Repair Services
+D-401480-0107,2020-07-12T00:00:00+06:00,9:00:00-10:00:00,1,0,cancelled,107,INP Engineering,,+8801748422846,Ashraf-uzzaman Chowdhury,+8801711080089,Cantonment,HAB,AC Water Drop Solution
+D-401515-2448,2020-07-12T00:00:00+06:00,17:00:00-18:00:00,1,0,cancelled,2448,Dhaka home service,,+8801747801387,sabbir,+8801721168701,Mohammadpur,HAB,Refrigerator Servicing
+D-401605-2526,2020-07-12T00:00:00+06:00,20:00:00-21:00:00,1,1,cancelled,2526,Spot Light ( Fast & Reliable Service ),,+8801675376766,Arni Saha,+8801755631844,Gulshan,HAB,"Ceiling Fan,Ceiling Fan"
