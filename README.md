@@ -4,7 +4,7 @@
 
 **Tech Stack:** Language - `Python` , ML Libraries - `TensorFlow` , Database - `MySQL` , Statistical Inference - `Chi-squared/t-tests` , Results Serving - `MetaBase`
 
-Sheba Platform Limited (SPL) was able to reduce cancellation of service-orders by leveraging the results of an ML model twice a day. I use data of last 4 months' to form the training set (for the sake of recency) and prepare a store of 22 features containing:
+*Sheba Platform Limited (SPL)* was able to reduce cancellation of service-orders by leveraging the results of an ML model twice a day. I use data of last 4 months' to form the training set (for the sake of recency) and prepare a store of 22 features containing:
 
 - <strong>Customer Info</strong>
   - How long has the customer been with Sheba Platform?
