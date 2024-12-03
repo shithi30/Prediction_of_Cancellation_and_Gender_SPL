@@ -2,7 +2,7 @@
 
 <img width="570" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/e934ce97-d625-4609-b24c-a7c3c408f15b"><br>
 
-**Tech Stack:** Language - `Python` , ML Libraries - `TensorFlow` , Database - `MySQL` , Results Serving - `MetaBase`
+**Tech Stack:** Language - `Python` , ML Libraries - `TensorFlow` , Database - `MySQL` , Statistical Inference - `Chi-squared/t-tests` , Results Serving - `MetaBase`
 
 Sheba Platform Limited (SPL) was able to reduce cancellation of service-orders by leveraging the results of an ML model twice a day. I use data of last 4 months' to form the training set (for the sake of recency) and prepare a store of 22 features containing:
 
