@@ -36,9 +36,7 @@ Past records help me label if the order got canceled or not (0/1). This a binary
 - Daily [prospective cancels](http://mb.sheba.xyz/question/16708?st=risky&dt=2020-06-24) , [Tracking](http://mb.sheba.xyz/question/16744?dt=2020-06-23) daily prospective cancels
 
 #### End of Day
-- MX and CX | Daily Health Report: http://mb.sheba.xyz/question/13109?target=5600
-- Prediction performance: https://docs.google.com/spreadsheets/d/1BChwHjBSPakqboYORU4Ukd1bhltUoff1thDjB1G9_oI/edit#gid=0
-- CX followup: https://docs.google.com/spreadsheets/d/1rt68jnf4LPONOY4Raq5M5K-jUQJKUXrxrGTTfDvxmuk/edit#gid=2019316536
+MX and CX | [Daily Health Report](http://mb.sheba.xyz/question/13109?target=5600) , Prediction [performance](https://docs.google.com/spreadsheets/d/1BChwHjBSPakqboYORU4Ukd1bhltUoff1thDjB1G9_oI/edit#gid=0) , CX [followup](https://docs.google.com/spreadsheets/d/1rt68jnf4LPONOY4Raq5M5K-jUQJKUXrxrGTTfDvxmuk/edit#gid=2019316536)
 
 ## Identification of Gender from Names
 <p align="center">
