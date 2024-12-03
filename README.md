@@ -1,4 +1,4 @@
-*Note: Links may not redirect outside org. Some data may be hidden for governance.*
+*<strong>Note:</strong> Links may not redirect outside org. Some data may be hidden for governance.*
 
 ## Completion Analysis: Which orders will get canceled?
 
