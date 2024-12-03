@@ -1,6 +1,6 @@
 *<strong>Note:</strong> Links may not redirect outside org. Some data may be hidden for governance.*
 
-## Completion Analysis: Which orders will get canceled?
+### Completion Analysis: Which orders will get canceled?
 
 <img width="570" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/e934ce97-d625-4609-b24c-a7c3c408f15b"><br>
 
@@ -38,7 +38,7 @@ Past records help me label if the order got canceled or not (0/1). This a binary
 #### End of Day
 MX and CX | [Daily Health Report](http://mb.sheba.xyz/question/13109?target=5600) , Prediction [performance](https://docs.google.com/spreadsheets/d/1BChwHjBSPakqboYORU4Ukd1bhltUoff1thDjB1G9_oI/edit#gid=0) , CX [followup](https://docs.google.com/spreadsheets/d/1rt68jnf4LPONOY4Raq5M5K-jUQJKUXrxrGTTfDvxmuk/edit#gid=2019316536)
 
-## Identification of Gender from Names
+### Identification of Gender from Names
 <p align="center">
 <img width="520" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/63365c45-12c1-45f5-bb52-9c8b4b89910c">
 <br>
