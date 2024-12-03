@@ -1,5 +1,3 @@
-*<strong>Note:</strong> Links may not redirect outside org. Some data may be hidden for governance.*
-
 ### Completion Analysis: Which orders will get canceled?
 
 <img width="570" alt="fl1" src="https://github.com/shithi30/Sheba_Predictions--Cancels_Gender/assets/43873081/e934ce97-d625-4609-b24c-a7c3c408f15b"><br>
@@ -46,3 +44,4 @@ MX and CX | [Daily Health Report](http://mb.sheba.xyz/question/13109?target=5600
 <img width="323" alt="fl1" src="https://github.com/shithi30/Prediction_of_Cancellation_and_Gender_SPL/assets/43873081/4c3b0b3c-0732-432a-b68b-c1bbb1fc1508">
 </p>
 
+*<strong>Note:</strong> Links may not redirect outside org. Some data may be hidden for governance.*
